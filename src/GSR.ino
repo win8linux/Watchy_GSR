@@ -1,6 +1,7 @@
 #include "Watchy_GSR.h"
 #include "../Watchface Addons/GSRWatchFaceBallsy.h"
 #include "../Watchface Addons/GSRWatchFaceLCD.h"
+#include "../Watchface Addons/Starfield/WatchyStarfield.h"
 
 // Place all of your data and variables here.
 
