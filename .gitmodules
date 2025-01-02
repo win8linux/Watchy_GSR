@@ -10,3 +10,6 @@
 [submodule "Watchface Addons/QLock"]
 	path = Watchface Addons/QLock
 	url = https://github.com/win8linux/WatchyGSR_Addon_QLock.git
+[submodule "Watchface Addons/Line"]
+	path = Watchface Addons/Line
+	url = https://github.com/win8linux/WatchyGSR_Addon_LineWatchy.git
