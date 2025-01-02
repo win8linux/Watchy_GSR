@@ -3,6 +3,7 @@
 #include "../Watchface Addons/GSRWatchFaceLCD.h"
 #include "../Watchface Addons/Starfield/WatchyStarfield.h"
 #include "../Watchface Addons/Stationary/StationaryText.h"
+#include "../Watchface Addons/TypoStyle/TypoStyle.h"
 
 // Place all of your data and variables here.
 

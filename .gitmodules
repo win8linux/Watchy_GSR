@@ -4,3 +4,6 @@
 [submodule "Watchface Addons/Stationary"]
 	path = Watchface Addons/Stationary
 	url = https://github.com/win8linux/WatchyGSR_Addon_StationaryWatchface.git
+[submodule "Watchface Addons/TypoStyle"]
+	path = Watchface Addons/TypoStyle
+	url = https://github.com/win8linux/WatchyGSR_Addon_TypoStyle.git
