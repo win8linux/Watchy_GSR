@@ -6,6 +6,8 @@
 #include "../Watchface Addons/TypoStyle/TypoStyle.h"
 #include "../Watchface Addons/QLock/QLock.h"
 #include "../Watchface Addons/Line/LineWatchy.h"
+#include "WeatherIcons.h" // Necessary for Watchy Classic
+#include "../Watchface Addons/Collections/Watchy Classics/WatchyClassicsAddOn.h"
 
 // Place all of your data and variables here.
 
