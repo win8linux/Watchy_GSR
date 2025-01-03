@@ -1,4 +1,8 @@
 #include "Watchy_GSR.h"
+#include "../Watchface Addons/GSRWatchFaceBallsy.h"
+#include "../Watchface Addons/GSRWatchFaceLCD.h"
+#include "WeatherIcons.h" // Necessary for Watchy Classic
+#include "../Watchface Addons/Collections/Watchy Classics/WatchyClassicsAddOn.h"
 
 // Place all of your data and variables here.
 
