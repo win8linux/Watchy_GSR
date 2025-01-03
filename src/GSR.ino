@@ -1,11 +1,11 @@
 #include "Watchy_GSR.h"
 #include "../Watchface Addons/GSRWatchFaceBallsy.h"
 #include "../Watchface Addons/GSRWatchFaceLCD.h"
-#include "../Watchface Addons/Starfield/WatchyStarfield.h"
-#include "../Watchface Addons/Stationary/StationaryText.h"
-#include "../Watchface Addons/TypoStyle/TypoStyle.h"
-#include "../Watchface Addons/QLock/QLock.h"
-#include "../Watchface Addons/Line/LineWatchy.h"
+#include "../Watchface Addons/Starfield/GSRWatchFaceStarfield.h"
+#include "../Watchface Addons/Stationary/GSRWatchFaceStationary.h"
+#include "../Watchface Addons/TypoStyle/GSRWatchFaceTypoStyle.h"
+#include "../Watchface Addons/QLock/GSRWatchFaceQLock.h"
+#include "../Watchface Addons/Line/GSRWatchFaceLine.h"
 #include "WeatherIcons.h" // Necessary for Watchy Classic
 #include "../Watchface Addons/Collections/Watchy Classics/WatchyClassicsAddOn.h"
 
