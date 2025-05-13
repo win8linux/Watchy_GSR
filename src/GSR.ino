@@ -10,6 +10,11 @@
 #if __has_include("WatchyClassicsAddOn.h")
 #include "WatchyClassicsAddOn.h"
 #endif
+
+// Stationary (Textual Time)
+#if __has_include("stationaryGSR.h")
+#include "stationaryGSR.h"
+#endif
 #endif
 
 // Place all of your data and variables here.
