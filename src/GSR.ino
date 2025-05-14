@@ -15,6 +15,12 @@
 #if __has_include("stationaryGSR.h")
 #include "stationaryGSR.h"
 #endif
+
+// Starfield
+#if __has_include("Starfield/GSRWatchFaceStarfield.h")
+#include "Starfield/GSRWatchFaceStarfield.h"
+#endif
+
 #endif
 
 // Place all of your data and variables here.
